@@ -1,0 +1,14 @@
+{
+  "generator-kraken": {
+    "taskModule": "grunt",
+    "lintModule": "eslint",
+    "description": "a realtime chat application with live video streaming",
+    "author": "jenil christo",
+    "templateModule": "dustjs",
+    "i18n": "i18n",
+    "componentPackager": "bower",
+    "cssModule": "sass",
+    "jsModule": "browserify",
+    "useJson": null
+  }
+}
